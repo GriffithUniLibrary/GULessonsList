@@ -1,5 +1,5 @@
-    
-   
+        
+        
 [Griffith University Library](https://www.griffith.edu.au/library) has created a number of self-paced lessons to help researchers develop digital skills to work with data. Lessons include:
 
 ### Digital skills
@@ -32,3 +32,5 @@
 [Copyright and publishing](https://griffithunilibrary.github.io/copyright-publishing/#/)
 
 We welcome feedback. Please raise an issue on the relevant lesson repository. 
+
+Griffith University - CRICOS Provider Number 00233E.
