@@ -1,4 +1,4 @@
-![alt text](assets/images/gu.jpg "Griffith University Logo" width="50% height="50%/)   
+![alt text](assets/images/gu.jpg "Griffith University Logo" { width=50%,height:50% })   
 
  
 [Griffith University Library](https://www.griffith.edu.au/library) has created a number of self-paced lessons to help researchers develop digital skills to work with data. Lessons include:
