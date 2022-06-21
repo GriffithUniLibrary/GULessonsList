@@ -1,5 +1,10 @@
        
-[Griffith University Library](https://www.griffith.edu.au/library) has created a number of self-paced lessons to help researchers develop digital skills to work with data. Lessons include:
+## Welcome to our lessons!
+
+[Griffith University Library](https://www.griffith.edu.au/library) has created a number of self-paced lessons to help researchers develop the digital skills to work efficiently with data of many kinds. Our lessons include:
+
+###  Copyright
+[Copyright and publishing](https://griffithunilibrary.github.io/copyright-publishing/#/)
 
 ### Digital skills
 
@@ -27,8 +32,6 @@
 ###  Systematic reviews
 - [Systematic reviews](https://griffithunilibrary.github.io/systematic-review-training/index.html#/)
 
-###  Copyright
-[Copyright and publishing](https://griffithunilibrary.github.io/copyright-publishing/#/)
 
 We welcome feedback. Please raise an issue on the relevant lesson repository. 
 
