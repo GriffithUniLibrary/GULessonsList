@@ -1,15 +1,10 @@
        
 ## Welcome to our lessons!
 
-[Griffith University Library](https://www.griffith.edu.au/library) has created a number of self-paced lessons to help researchers develop the digital skills to work efficiently with data of many kinds. Our lessons include:
+Staff from [Griffith University Library](https://www.griffith.edu.au/library) have created a number of self-paced lessons to help researchers develop the digital skills to work efficiently with data of many kinds. These lessons are free for anyone to use. Our lessons include:
 
 ###  Copyright
 [Copyright and publishing](https://griffithunilibrary.github.io/copyright-publishing/#/)
-
-### Digital skills
-
-- [Digital dexterity: self-assessment](https://griffithunilibrary.github.io/digital-dexterity/)
-- [Digital tools for research](https://griffithunilibrary.github.io/digital-tools/)
 
 ###  Data and visualisation lessons
 
@@ -19,6 +14,11 @@
 - [Introduction to text mining and analysis](https://griffithunilibrary.github.io/intro-text-mining-analysis/)
 - [Data visualisation basics](https://griffithunilibrary.github.io/data-vis-basics/)
 - [Data storytelling](https://griffithunilibrary.github.io/data-storytelling/)
+
+### Digital skills
+
+- [Digital dexterity: self-assessment](https://griffithunilibrary.github.io/digital-dexterity/)
+- [Digital tools for research](https://griffithunilibrary.github.io/digital-tools/)
 
 ### Legal research
 
@@ -33,6 +33,6 @@
 - [Systematic reviews](https://griffithunilibrary.github.io/systematic-review-training/index.html#/)
 
 
-We welcome feedback. Please raise an issue on the relevant lesson repository. 
+We welcome feedback. Please raise an issue on the relevant [lesson repository](https://github.com/orgs/GriffithUniLibrary/repositories). Follow [Griffith Uni Library](https://twitter.com/GriffithLibrary) on Twitter.
 
 Griffith University - CRICOS Provider Number 00233E.
