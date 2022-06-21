@@ -32,6 +32,17 @@ Staff from [Griffith University Library](https://www.griffith.edu.au/library) ha
 ###  Systematic reviews
 - [Systematic reviews](https://griffithunilibrary.github.io/systematic-review-training/index.html#/)
 
+---------
+
+## Related lessons from other Griffith units
+
+### Reproducible Research Things
+- [Reproducible Research Things](https://guereslib.github.io/Reproducible-Research-Things/)
+
+### Webscraping with Python
+- [Webscraping with Python](https://gu-eresearch.github.io/web_scraping_workshop/)
+
+-----------------
 
 We welcome feedback. Please raise an issue on the relevant [lesson repository](https://github.com/orgs/GriffithUniLibrary/repositories). Follow [Griffith Uni Library](https://twitter.com/GriffithLibrary) on Twitter.
 
