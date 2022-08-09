@@ -3,7 +3,7 @@
 
 Staff from [Griffith University Library](https://www.griffith.edu.au/library) have created a number of self-paced lessons to help researchers develop the digital skills to work efficiently with data of many kinds. These lessons are free for anyone to use. Our lessons include:
 
-|**Data and visualisation**  | **Digital skills**  | **Surveys and reviews**  | **Other** |
+|**Working with data**  | **Digital and data skills**  | **Surveys and reviews**  | **Other** |
 | :---: | :---: | :---: | :---: |
 | [Introduction to data wrangling](https://griffithunilibrary.github.io/intro-data-wrangle/) | [Digital dexterity: self-assessment](https://griffithunilibrary.github.io/digital-dexterity/)| [Introduction to Lime Survey](https://griffithunilibrary.github.io/limesurvey/) | [Copyright and publishing](https://griffithunilibrary.github.io/copyright-publishing/#/)|
 | [Advanced data wrangling](https://griffithunilibrary.github.io/Advanced-data-wrangle/) | [Digital tools for research](https://griffithunilibrary.github.io/digital-tools/) | [Introduction to RedCAP](https://griffithunilibrary.github.io/redcap/) | [Finding legislation](https://griffithunilibrary.github.io/finding-legislation/#/) |
