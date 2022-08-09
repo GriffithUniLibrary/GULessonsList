@@ -26,7 +26,7 @@ Staff from [Griffith University Library](https://www.griffith.edu.au/library) ha
 - [Finding legislation](https://griffithunilibrary.github.io/finding-legislation/#/)
 
 ###  Survey tools
-- [Introduction toLimeSurvey](https://griffithunilibrary.github.io/limesurvey/)
+- [Introduction to LimeSurvey](https://griffithunilibrary.github.io/limesurvey/)
 - [Introduction to RedCAP](https://griffithunilibrary.github.io/redcap/)
 
 ###  Systematic reviews
