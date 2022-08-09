@@ -41,7 +41,7 @@
   <tr>
     <td> </td>
     <td><a href="https://griffithunilibrary.github.io/digital-tools/">Digital tools for research</a></td>
-    <td><a href="https://griffithunilibrary.github.io/finding-legislation/#/">Finding legislation</td>
+    <td><a href="https://griffithunilibrary.github.io/finding-legislation/#/">Finding legislation</a></td>
     <td></td>
   </tr>
 </table>
