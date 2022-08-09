@@ -35,7 +35,7 @@
   <tr>
     <td><a href="https://griffithunilibrary.github.io/copyright-publishing/#/">Copyright and publishing</a></td>
     <td><a href="https://griffithunilibrary.github.io/digital-dexterity//">Digital dexterity: self-assessment</a></td>
-    <td><a href="https://griffithunilibrary.github.io/finding-cases/#/">Finding cases</td>
+   <td><a href="https://griffithunilibrary.github.io/finding-cases/#/">Finding cases</a></td>
     <td><a href="https://griffithunilibrary.github.io/systematic-review-training/index.html">Systematic style reviews: Develop your search strategy</a></td>
   </tr>
   <tr>
