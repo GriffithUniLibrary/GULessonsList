@@ -3,21 +3,19 @@
 
 Staff from [Griffith University Library](https://www.griffith.edu.au/library) have created a number of self-paced lessons to help researchers develop the digital skills to work efficiently with data of many kinds. These lessons are free for anyone to use. Our lessons include:
 
-
-| **Copyright** |  **Data and visualisation** | **Digital skills** | **Legal research** |
+|**Data and visualisation**  | **Digital skills**  | Surveys and reviews  | **Other** |
 | :---: | :---: | :---: | :---: |
-|[Copyright and publishing](https://griffithunilibrary.github.io/copyright-publishing/#/)| [Introduction to data wrangling](https://griffithunilibrary.github.io/intro-data-wrangle/) | [Digital dexterity: self-assessment](https://griffithunilibrary.github.io/digital-dexterity/)| [Finding cases](https://griffithunilibrary.github.io/finding-cases/#/) |
-|**Survey tools** | [Advanced data wrangling](https://griffithunilibrary.github.io/Advanced-data-wrangle/) | [Digital tools for research](https://griffithunilibrary.github.io/digital-tools/) | [Finding legislation](https://griffithunilibrary.github.io/finding-legislation/#/) |
-| [Introduction to Lime Survey](https://griffithunilibrary.github.io/limesurvey/) | [Research data management](https://griffithunilibrary.github.io/Research_data_management/) |**Systematic-style reviews** |  |
-| [Introduction to RedCAP](https://griffithunilibrary.github.io/redcap/) | [Introduction to text mining and analysis](https://griffithunilibrary.github.io/intro-text-mining-analysis/)| [Systematic style reviews: Develop your search strategy](https://griffithunilibrary.github.io/systematic-review-training/index.html#/) | |
-|  | [Data visualisation basics](https://griffithunilibrary.github.io/data-vis-basics/)| |
-| | [Data storytelling](https://griffithunilibrary.github.io/data-storytelling/)| |
+| [Introduction to data wrangling](https://griffithunilibrary.github.io/intro-data-wrangle/) | [Digital dexterity: self-assessment](https://griffithunilibrary.github.io/digital-dexterity/)| [Introduction to Lime Survey](https://griffithunilibrary.github.io/limesurvey/) | [Copyright and publishing](https://griffithunilibrary.github.io/copyright-publishing/#/)|
+| [Advanced data wrangling](https://griffithunilibrary.github.io/Advanced-data-wrangle/) | [Digital tools for research](https://griffithunilibrary.github.io/digital-tools/) | [Introduction to RedCAP](https://griffithunilibrary.github.io/redcap/) | [Finding legislation](https://griffithunilibrary.github.io/finding-legislation/#/) |
+|  [Research data management](https://griffithunilibrary.github.io/Research_data_management/) | [Introduction to text mining and analysis](https://griffithunilibrary.github.io/intro-text-mining-analysis/) | [Systematic style reviews: Develop your search strategy](https://griffithunilibrary.github.io/systematic-review-training/index.html#/) | [Finding cases](https://griffithunilibrary.github.io/finding-cases/#/) |
+| [Data visualisation basics](https://griffithunilibrary.github.io/data-vis-basics/)| | | |
+| [Data storytelling](https://griffithunilibrary.github.io/data-storytelling/)| | | |
 
 ---------
 
 ## Related lessons from other Griffith units
 
-| **Reproducible Research** |  **Webscraping** |
+| **Reproducible research** |  **Webscraping** |
 | :---: | :---: |
 | [Reproducible Research Things](https://guereslib.github.io/Reproducible-Research-Things/)| [Webscraping with Python](https://gu-eresearch.github.io/web_scraping_workshop/)|
 
