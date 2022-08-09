@@ -8,8 +8,8 @@ Staff from [Griffith University Library](https://www.griffith.edu.au/library) ha
 | :---: | :---: | :---: | :---: |
 |[Copyright and publishing](https://griffithunilibrary.github.io/copyright-publishing/#/)| [Introduction to data wrangling](https://griffithunilibrary.github.io/intro-data-wrangle/) | [Digital dexterity: self-assessment](https://griffithunilibrary.github.io/digital-dexterity/)| [Finding cases](https://griffithunilibrary.github.io/finding-cases/#/) |
 |**Survey tools** | [Advanced data wrangling](https://griffithunilibrary.github.io/Advanced-data-wrangle/) | [Digital tools for research](https://griffithunilibrary.github.io/digital-tools/) | [Finding legislation](https://griffithunilibrary.github.io/finding-legislation/#/) |
-| [Introduction to Lime Survey](https://griffithunilibrary.github.io/limesurvey/) | [Research data management](https://griffithunilibrary.github.io/Research_data_management/) |**Systematic reviews** |  |
-| [Introduction to RedCAP](https://griffithunilibrary.github.io/redcap/) | [Introduction to text mining and analysis](https://griffithunilibrary.github.io/intro-text-mining-analysis/)| [Systematic reviews](https://griffithunilibrary.github.io/systematic-review-training/index.html#/) | |
+| [Introduction to Lime Survey](https://griffithunilibrary.github.io/limesurvey/) | [Research data management](https://griffithunilibrary.github.io/Research_data_management/) |**Systematic-style reviews** |  |
+| [Introduction to RedCAP](https://griffithunilibrary.github.io/redcap/) | [Introduction to text mining and analysis](https://griffithunilibrary.github.io/intro-text-mining-analysis/)| [Systematic style reviews: Develop your search strategy](https://griffithunilibrary.github.io/systematic-review-training/index.html#/) | |
 |  | [Data visualisation basics](https://griffithunilibrary.github.io/data-vis-basics/)| |
 | | [Data storytelling](https://griffithunilibrary.github.io/data-storytelling/)| |
 
