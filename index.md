@@ -8,10 +8,10 @@
 
 <table>
   <tr>
-    <th>Working with data</th>
-    <th>Visualising data</th>
-    <th>Getting and managing data</th>
-    <th>Working with surveys</th>
+    <th align="center">Working with data</th>
+    <th align="center">Visualising data</th>
+    <th align="center">Getting and managing data</th>
+    <th align="center">Working with surveys</th>
   </tr>
   <tr>
     <td valign="top" align="center"><a href="https://griffithunilibrary.github.io/intro-data-wrangle/">Introduction to data wrangling</a></td>
@@ -27,10 +27,10 @@
     <td valign="top" align="center"><a href="https://griffithunilibrary.github.io/redcap">Introduction to RedCAP</a></td>
   </tr>
   <tr>
-    <th>Copyright</th>
-    <th>Digital skills</th>
-    <th>Legal research</th>
-    <th>Other</th>
+    <th align="center">Copyright</th>
+    <th align="center">Digital skills</th>
+    <th align="center">Legal research</th>
+    <th align="center">Other</th>
   </tr>
   <tr>
     <td valign="top" align="center"><a href="https://griffithunilibrary.github.io/copyright-publishing/#/">Copyright and publishing</a></td>
@@ -46,7 +46,7 @@
   </tr>
 </table>
 
-<HR>
+<hr>
 
 <h3>Related lessons created by staff in Griffith's eResearch Services</h3>
 
