@@ -52,8 +52,8 @@
 
 <table>
   <tr>
-    <th>Reproducible research</th>
-    <th>Webscraping</th>
+    <th align="center">Reproducible research</th>
+    <th align="center">Webscraping</th>
 
   </tr>
   <tr>
