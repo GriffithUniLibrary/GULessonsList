@@ -14,7 +14,7 @@
     <th align="left">Working with surveys</th>
   </tr>
   <tr>
-    <td valign="top" align="left"><a href="https://weaverbel.github.io/intro-computational-thinking/">Introducing computational thinking</a></td>
+    <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/intro-computational-thinking/">Introducing computational thinking</a></td>
     <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/data-vis-basics/">Data visualisation basics</a></td>
     <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/Advanced-data-wrangle/">Advanced data wrangling</a></td>
     <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/limesurvey/">Introduction to Lime Survey</a></td>
