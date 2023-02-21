@@ -31,6 +31,7 @@
     <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/intro-data-wrangle/">Introduction to data wrangling</a></td>
     <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/Advanced-data-wrangle/">Advanced data wrangling</a></td>
     <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/redcap">Introduction to RedCAP</a></td>
+    <td> </td>
   </tr>
   
   <tr>
@@ -41,12 +42,7 @@
     <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/digital-dexterity//">Digital dexterity: self-assessment</a></td>
 <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/data-storytelling/">Data storytelling</a></td>
     <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/data-vis-basics/">Data visualisation basics</a></td>
-    
-    <th align="left">Working with data</th>
-    <th align="left">Visualising data</th>   
-  </tr>
-  <tr>
-    <td> </td>
+  </tr>    
 </table>
 
 <hr>
