@@ -4,7 +4,7 @@
 
 <h2>Welcome to our lessons!</h2>
 
-<p>Staff from <a href="https://www.griffith.edu.au/library">Griffith University Library</a> and <a href+"https://www.griffith.edu.au/eresearch-services<eResearch"> have created a number of self-paced lessons to help researchers develop the digital skills to work efficiently with data of many kinds. These lessons are free for anyone to use or re-use. Our lessons include:</p>
+<p>Staff from Griffith University <a href="https://www.griffith.edu.au/library">Library</a> and <a href="https://www.griffith.edu.au/eresearch-services">eResearch</a> have created a number of self-paced lessons to help researchers develop the digital skills to work efficiently with data of many kinds. These lessons are free for anyone to use or re-use. Our lessons include:</p>
 
 <table>
   <tr>
