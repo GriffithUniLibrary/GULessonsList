@@ -27,6 +27,8 @@
   </tr>
   <tr>
   <th align="left">Gather & Analyse</th>  
+  </tr>
+  <tr>
     <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/intro-text-mining-analysis/">Introduction to text mining and analysis</a></td>
     <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/intro-data-wrangle/">Introduction to data wrangling</a></td>
     <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/Advanced-data-wrangle/">Advanced data wrangling</a></td>
