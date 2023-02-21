@@ -40,11 +40,18 @@
      <td valign="top" align="left"><a href="https://gu-eresearch.github.io/web_scraping_workshop/">Webscraping with Python</a></td>
   </tr>
   <tr>
-    <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/copyright-publishing/#/">Copyright and publishing</a></td>
-    <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/digital-dexterity//">Digital dexterity: self-assessment</a></td>
-<td valign="top" align="left"><a href="https://griffithunilibrary.github.io/data-storytelling/">Data storytelling</a></td>
+  <th align="left">Communicate & Publish</th>  
+  </tr>
+  <tr>
+    <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/data-storytelling/">Data storytelling</a></td>
     <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/data-vis-basics/">Data visualisation basics</a></td>
-  </tr>    
+    <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/copyright-publishing/#/">Copyright and publishing</a></td>
+  </tr> 
+  <tr>
+  <th align="left">Take our quiz</th>  
+  </tr>
+  <tr>
+   <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/digital-dexterity//">Digital dexterity: self-assessment</a></td>
 </table>
 
 <hr>
