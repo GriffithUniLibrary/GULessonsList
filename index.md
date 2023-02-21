@@ -14,7 +14,7 @@
     <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/digital-tools/">Digital tools for research</a></td>
     <td valign="top" align="left"><a href="https://guereslib.github.io/ten-reproducible-research-things/">10 Reproducible Research Things</a></td>
     <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/intro-computational-thinking/">Introducing computational thinking</a></td>
-    <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/Research_data_management/">Research data management</a></td>   
+    <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/research-data-management/">Research data management</a></td>   
   </tr>
 
   <tr>
@@ -31,9 +31,9 @@
   </tr>
   <tr>
     <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/intro-text-mining-analysis/">Introduction to text mining and analysis</a></td>
-    <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/intro-data-wrangle/">Introduction to data wrangling</a></td>
-    <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/Advanced-data-wrangle/">Advanced data wrangling</a></td>
-    <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/redcap">Introduction to RedCAP</a></td>
+    <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/data-cleaning-intro/">Introduction to data cleaning</a></td>
+    <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/advanced-data-wrangle-2/">Advanced data wrangling</a></td>
+    <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/redcap-intro/">Introduction to RedCAP</a></td>
   </tr>
   
   <tr>
@@ -43,10 +43,8 @@
   <th colspan="4" align="left">Communicate & Publish</th>  
   </tr>
   <tr>
-    <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/data-storytelling/">Data storytelling</a></td>
-    <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/data-vis-basics/">Data visualisation basics</a></td>
-    <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/copyright-publishing/#/">Copyright and publishing</a></td>
-    <td> </td>
+    <td colspan="2" valign="top" align="left"><a href="https://griffithunilibrary.github.io/data-storytelling/">Data storytelling</a></td>
+    <td colspan="2" valign="top" align="left"><a href="https://griffithunilibrary.github.io/copyright-publishing/#/">Copyright and publishing</a></td>
   </tr> 
   <tr>
   <th colspan="4" align="left">Take our quiz</th>  
