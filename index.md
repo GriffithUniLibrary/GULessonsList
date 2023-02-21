@@ -8,7 +8,7 @@
 
 <table>
   <tr>
-    <th align="left"><Plan & Prepare</th>
+    <th align="left">Plan & Prepare</th>
     <th align="left">Discover</th>
     <th align="left">Working with data</th>
     <th align="left">Visualising data</th>
@@ -53,10 +53,6 @@
     
   </tr>
 </table>
-
-<hr>
-
-<h3>Related lessons created by staff in Griffith's eResearch Services</h3>
 
 <table>
   <tr>
