@@ -33,7 +33,6 @@
     <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/intro-data-wrangle/">Introduction to data wrangling</a></td>
     <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/Advanced-data-wrangle/">Advanced data wrangling</a></td>
     <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/redcap">Introduction to RedCAP</a></td>
-    <td> </td>
   </tr>
   
   <tr>
