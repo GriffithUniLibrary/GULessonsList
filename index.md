@@ -8,7 +8,7 @@
 
 <table>
   <tr>
-    <th align="left">Plan & Prepare</th>
+    <th colspan="4" align="left">Plan & Prepare</th>
   </tr>
   <tr>
     <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/digital-tools/">Digital tools for research</a></td>
