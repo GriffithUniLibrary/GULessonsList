@@ -18,7 +18,7 @@
   </tr>
 
   <tr>
-    <th align="left">Discover</th>
+    <th colspan="4" align="left">Discover</th>
   </tr>
   <tr> 
     <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/systematic-review-training/index.html">Systematic style reviews: Develop your search strategy</a></td>
@@ -26,7 +26,7 @@
     <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/finding-cases/#/">Finding cases</a></td>
   </tr>
   <tr>
-  <th align="left">Gather & Analyse</th>  
+  <th colspan="4" align="left">Gather & Analyse</th>  
   </tr>
   <tr>
     <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/intro-text-mining-analysis/">Introduction to text mining and analysis</a></td>
@@ -39,7 +39,7 @@
      <td valign="top" align="left"><a href="https://gu-eresearch.github.io/web_scraping_workshop/">Webscraping with Python</a></td>
   </tr>
   <tr>
-  <th align="left">Communicate & Publish</th>  
+  <th colspan="4" align="left">Communicate & Publish</th>  
   </tr>
   <tr>
     <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/data-storytelling/">Data storytelling</a></td>
@@ -47,7 +47,7 @@
     <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/copyright-publishing/#/">Copyright and publishing</a></td>
   </tr> 
   <tr>
-  <th align="left">Take our quiz</th>  
+  <th colspan="4" align="left">Take our quiz</th>  
   </tr>
   <tr>
    <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/digital-dexterity//">Digital dexterity: self-assessment</a></td>
