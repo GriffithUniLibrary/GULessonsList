@@ -8,24 +8,32 @@
 
 <table>
   <tr>
-    <th align="left"><a href="https://griffithunilibrary.github.io/intro-computational-thinking/">Introducing computational thinking</a></th>
+    <th align="left"><Plan & Prepare</th>
+    <th align="left">Discover</th>
+    <th align="left">Working with data</th>
     <th align="left">Visualising data</th>
-    <th align="left">Getting and managing data</th>
-    <th align="left">Working with surveys</th>
   </tr>
   <tr>
-    <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/intro-computational-thinking/">Introducing computational thinking</a></td>
+    <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/digital-tools/">Digital tools for research</a></td>
+    <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/systematic-review-training/index.html">Systematic style reviews: Develop your search strategy</a></td>
+    <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/intro-data-wrangle/">Introduction to data wrangling</a></td>
     <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/data-vis-basics/">Data visualisation basics</a></td>
-    <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/Advanced-data-wrangle/">Advanced data wrangling</a></td>
-    <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/limesurvey/">Introduction to Lime Survey</a></td>
   </tr>
 
   <tr>
-    <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/intro-data-wrangle/">Introduction to data wrangling</a></td>
+    <td valign="top" align="left"><a href="https://guereslib.github.io/ten-reproducible-research-things/">10 Reproducible Research Things</a></td>
+    <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/finding-legislation/#/">Finding legislation</a></td>
+    <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/Advanced-data-wrangle/">Advanced data wrangling</a></td>
+
     <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/data-storytelling/">Data storytelling</a></td>
-    <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/Research_data_management/">Research data management</a></td>
+    <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/intro-computational-thinking/">Introducing computational thinking</a></td>
     <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/redcap">Introduction to RedCAP</a></td>
   </tr>
+  
+  <tr>
+    <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/Research_data_management/">Research data management</a></td>
+    <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/intro-text-mining-analysis/">Introduction to text mining and analysis</a></td>
+    <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/finding-cases/#/">Finding cases</a></td>
   <tr>
     <th align="left">Copyright</th>
     <th align="left">Digital skills</th>
@@ -35,14 +43,14 @@
   <tr>
     <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/copyright-publishing/#/">Copyright and publishing</a></td>
     <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/digital-dexterity//">Digital dexterity: self-assessment</a></td>
-    <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/finding-cases/#/">Finding cases</a></td>
-    <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/systematic-review-training/index.html">Systematic style reviews: Develop your search strategy</a></td>
+    
+    
   </tr>
   <tr>
     <td> </td>
-    <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/digital-tools/">Digital tools for research</a></td>
-    <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/finding-legislation/#/">Finding legislation</a></td>
-    <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/intro-text-mining-analysis/">Introduction to text mining and analysis</a></td>
+
+    
+    
   </tr>
 </table>
 
@@ -54,10 +62,18 @@
   <tr>
     <th align="left">Reproducible research</th>
     <th align="left">Webscraping</th>
-
   </tr>
   <tr>
-    <td valign="top" align="left"><a href="https://guereslib.github.io/Reproducible-Research-Things/">Reproducible Research Things</a></td>
+    <td valign="top" align="left"><a href="https://gu-eresearch.github.io/web_scraping_workshop/">Webscraping with Python</a></td>
+  </tr>
+</table>
+  
+<table>
+  <tr>
+    <th align="left">Reproducible research</th>
+  </tr>
+  <tr>
+    <td valign="top" align="left"><a href="https://gu-eresearch.github.io/web_scraping_workshop/">Webscraping with Python</a></td>
     <td valign="top" align="left"><a href="https://gu-eresearch.github.io/web_scraping_workshop/">Webscraping with Python</a></td>
   </tr>
 </table>
