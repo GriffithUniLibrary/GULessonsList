@@ -6,7 +6,6 @@
 
 <p>Staff from Griffith University <a href="https://www.griffith.edu.au/library">Library</a> and <a href="https://www.griffith.edu.au/eresearch-services">eResearch Services</a> have created a number of self-paced lessons to help researchers develop the digital skills to work efficiently with data of many kinds. These lessons are free for anyone to use or re-use. Our lessons include:</p>
   
-<p>
 <table>
   <tr>
     <th colspan="4" align="left">Plan & Prepare</th>
@@ -54,8 +53,9 @@
   </tr>
   <tr>
    <td colspan="4" valign="top" align="left"><a href="https://griffithunilibrary.github.io/digital-dexterity//">Digital dexterity: self-assessment</a></td>
+  </tr>
 </table>
-  </p>
+
 <hr>
 
 <p>We welcome feedback. Please raise an issue on the relevant <a href="https://github.com/orgs/GriffithUniLibrary/repositories">lesson repository</a>. Follow <a href="https://twitter.com/GriffithLibrary">Griffith Uni Library</a> on Twitter.</p>
