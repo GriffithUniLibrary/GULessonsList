@@ -8,7 +8,7 @@
 
 <table>
   <tr>
-    <th align="left">Working with data</th>
+    <th align="left"><a href="https://griffithunilibrary.github.io/intro-computational-thinking/">Introducing computational thinking</a></th>
     <th align="left">Visualising data</th>
     <th align="left">Getting and managing data</th>
     <th align="left">Working with surveys</th>
