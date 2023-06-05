@@ -44,7 +44,6 @@
   </tr>
   <tr>
     <td colspan="2" valign="top" align="left"><a href="https://griffithunilibrary.github.io/data-storytelling/">Data storytelling</a></td>
-    <td colspan="2" valign="top" align="left"><a href="https://griffithunilibrary.github.io/copyright-publishing/#/">Copyright and publishing</a></td>
   </tr> 
   <tr>
   <th colspan="4" align="left">Take our quiz</th>  
