@@ -43,7 +43,7 @@
   <th colspan="4" align="left">Communicate & Publish</th>  
   </tr>
   <tr>
-    <td colspan="2" valign="top" align="left"><a href="https://griffithunilibrary.github.io/data-storytelling/">Data storytelling</a></td>
+    <td colspan="4" valign="top" align="left"><a href="https://griffithunilibrary.github.io/data-storytelling/">Data storytelling</a></td>
   </tr> 
   <tr>
   <th colspan="4" align="left">Take our quiz</th>  
