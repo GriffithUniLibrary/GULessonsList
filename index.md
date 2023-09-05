@@ -44,7 +44,9 @@
   <th colspan="4" align="left">Communicate & Publish</th>  
   </tr>
   <tr>
-    <td colspan="4" valign="top" align="left"><a href="https://griffithunilibrary.github.io/data-storytelling/">Data storytelling</a></td>
+    <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/data-storytelling/">Data storytelling</a></td>
+    <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/publishing-maze/">Navigating the Publishing maze</a></td>
+    <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/writing-methodology-methods/">Writing the methodology and methods section</a></td>
   </tr> 
   <tr>
   <th colspan="4" align="left">Take our quiz</th>  
