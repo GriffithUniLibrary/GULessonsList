@@ -39,6 +39,7 @@
   <tr>
      <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/redcap-intro/">Introduction to RedCAP</a></td>
      <td valign="top" align="left"><a href="https://gu-eresearch.github.io/web_scraping_workshop/">Webscraping with Python</a></td>
+    <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/EndNote-Basics-Tutorial/">EndNote basics tutorial</a></td>
   </tr>
   <tr>
   <th colspan="4" align="left">Communicate & Publish</th>  
