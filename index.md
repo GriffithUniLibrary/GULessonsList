@@ -30,7 +30,7 @@
   <th colspan="4" align="left">Gather & Analyse</th>  
   </tr>
   <tr>
-    <td valign="top" align="left"><a href="https://gu-eresearch.github.io/web_scraping_workshop/">Systematic style reviews: Screening your literature</a></td>
+    <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/systematic-review-screening/">Systematic style reviews: Screening your literature</a></td>
     <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/intro-text-mining-analysis/">Introduction to text mining and analysis</a></td>
     <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/data-cleaning-intro/">Introduction to data cleaning</a></td>
     <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/advanced-data-wrangle-2/">Advanced data wrangling</a></td>
