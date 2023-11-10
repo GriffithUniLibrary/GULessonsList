@@ -50,6 +50,9 @@
     <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/writing-methodology-methods/">Writing the methodology and methods section</a></td>
     <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/publishing-maze/">Navigating the Publishing maze</a></td>
   </tr> 
+   <tr>
+    <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/Griffith-Experts-and-Symplectic-Elements/">Griffith Experts and Symplectic Elements</a></td>
+  </tr> 
   <tr>
   <th colspan="4" align="left">Take our quiz</th>  
   </tr>
