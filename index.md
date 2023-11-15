@@ -52,6 +52,8 @@
   </tr> 
    <tr>
     <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/Griffith-Experts-and-Symplectic-Elements/">Griffith Experts and Symplectic Elements</a></td>
+    <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/formatting-your-thesis/">Formatting your thesis</a></td>
+    <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/copyright-publishing/">Copyright, Publishing and Open Access Considerations</a></td>
   </tr> 
   <tr>
   <th colspan="4" align="left">Take our quiz</th>  
