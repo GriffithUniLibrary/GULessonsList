@@ -48,9 +48,10 @@
     <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/data-storytelling/">Data storytelling</a></td>
     <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/Analysing-the-Literature-and-Writing-the-Review/">Analysing the Literature and Writing the Review</a></td>
     <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/writing-methodology-methods/">Writing the methodology and methods section</a></td>
-    <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/publishing-maze/">Navigating the Publishing maze</a></td>
+    <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/Improving-tone-and-style/">Improving the tone and style of your academic writing</a></td>
   </tr> 
    <tr>
+     <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/publishing-maze/">Navigating the Publishing maze</a></td>
     <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/Griffith-Experts-and-Symplectic-Elements/">Griffith Experts and Symplectic Elements</a></td>
     <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/formatting-your-thesis/">Formatting your thesis</a></td>
   </tr> 
