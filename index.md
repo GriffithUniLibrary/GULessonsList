@@ -52,10 +52,13 @@
   </tr> 
    <tr>
      <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/conveying-the-argument/">Conveying the argument in academic writing</a></td>
+     <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/writing-a-journal-article/">Writing a journal article</a></td>
      <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/publishing-maze/">Navigating the Publishing maze</a></td>
     <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/Griffith-Experts-and-Symplectic-Elements/">Griffith Experts and Symplectic Elements</a></td>
-    <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/formatting-your-thesis/">Formatting your thesis</a></td>
   </tr> 
+  <tr>
+    <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/formatting-your-thesis/">Formatting your thesis</a></td>
+  </tr>
   <tr>
   <th colspan="4" align="left">Take our quiz</th>  
   </tr>
