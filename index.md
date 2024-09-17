@@ -11,7 +11,6 @@
     <th colspan="4" align="left">Plan & Prepare</th>
   </tr>
   <tr>
-    <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/digital-tools/">Digital tools for research</a></td>
     <td valign="top" align="left"><a href="https://guereslib.github.io/ten-reproducible-research-things/">10 Reproducible Research Things</a></td>
     <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/intro-computational-thinking/">Introducing computational thinking</a></td>
     <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/research-data-management/">Research data management</a></td>   
@@ -38,7 +37,6 @@
   
   <tr>
      <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/redcap-intro/">Introduction to RedCAP</a></td>
-     <td valign="top" align="left"><a href="https://gu-eresearch.github.io/web_scraping_workshop/">Webscraping with Python</a></td>
     <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/EndNote-tutorial/">EndNote basics tutorial</a></td>
   </tr>
   <tr>
