@@ -22,8 +22,6 @@
   </tr>
   <tr> 
     <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/SSR-Develop-your-search-strategy/">Systematic style reviews: Develop your search strategy</a></td>
-    <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/finding-legislation/#/">Finding legislation</a></td>
-    <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/finding-cases/#/">Finding cases</a></td>
     <td> </td>
   </tr>
   <tr>
