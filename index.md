@@ -35,7 +35,7 @@
   </tr>
   
   <tr>
-     <td valign="top" align="left"><a href="https://github.com/GriffithUniLibrary/data-vis-basics/">Data visualisation basics</a></td>
+     <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/data-vis-basics/">Data visualisation basics</a></td>
     <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/redcap-intro/">Introduction to RedCAP</a></td>
     <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/EndNote-tutorial/">EndNote basics tutorial</a></td>
   </tr>
