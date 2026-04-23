@@ -60,9 +60,6 @@
     <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/formatting-your-thesis/">Formatting your thesis</a></td>
   </tr>
 </table>
-
-<hr>
-
 <p>We welcome feedback. Please raise an issue on the relevant <a href="https://github.com/orgs/GriffithUniLibrary/repositories">lesson repository</a>. Follow <a href="https://twitter.com/GriffithLibrary">Griffith Uni Library</a> on Twitter.</p>
 
 <strong>Griffith University - CRICOS Provider Number 00233E.</strong>
