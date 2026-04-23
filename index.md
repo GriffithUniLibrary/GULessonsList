@@ -59,12 +59,6 @@
   <tr>
     <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/formatting-your-thesis/">Formatting your thesis</a></td>
   </tr>
-  <tr>
-  <th colspan="4" align="left">Take our quiz</th>  
-  </tr>
-  <tr>
-   <td colspan="4" valign="top" align="left"><a href="https://griffithunilibrary.github.io/digital-dexterity//">Digital dexterity: self-assessment</a></td>
-  </tr>
 </table>
 
 <hr>
