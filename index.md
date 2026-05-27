@@ -11,7 +11,6 @@
     <th colspan="4" align="left">Plan & Prepare</th>
   </tr>
   <tr>
-    <td valign="top" align="left"><a href="https://guereslib.github.io/ten-reproducible-research-things/">10 Reproducible Research Things</a></td>
     <td valign="top" align="left"><a href="https://lms.griffith.edu.au/enroll/7T6KYX">Research data management</a></td>   
     <td> </td>
   </tr>
