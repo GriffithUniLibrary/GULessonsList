@@ -8,14 +8,6 @@
   
 <table>
   <tr>
-    <th colspan="4" align="left">Plan & Prepare</th>
-  </tr>
-  <tr>
-    <td valign="top" align="left"><a href="https://lms.griffith.edu.au/enroll/7T6KYX">Research data management</a></td>   
-    <td> </td>
-  </tr>
-
-  <tr>
     <th colspan="4" align="left">Discover</th>
   </tr>
   <tr> 
