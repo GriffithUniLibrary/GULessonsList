@@ -25,8 +25,6 @@
   </tr>
   
   <tr>
-     <td valign="top" align="left"><a href="https://lms.griffith.edu.au/courses/18035">Data visualisation basics</a></td>
-    <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/intro-to-REDCap/">Introduction to RedCAP</a></td>
     <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/EndNote-tutorial/">EndNote basics tutorial</a></td>
     <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/VOSViewer-guide/">VOSViewer guide</a></td>
     
