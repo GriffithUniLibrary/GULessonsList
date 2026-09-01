@@ -26,7 +26,6 @@
   
   <tr>
     <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/EndNote-tutorial/">EndNote basics tutorial</a></td>
-    <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/VOSViewer-guide/">VOSViewer guide</a></td>
     
   </tr>
   <tr>
