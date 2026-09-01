@@ -12,7 +12,6 @@
   </tr>
   <tr> 
     <td valign="top" align="left"><a href="https://griffithunilibrary.github.io/SSR-Develop-your-search-strategy/">Systematic style reviews: Develop your search strategy</a></td>
-    <td> </td>
   </tr>
   <tr>
   <th colspan="4" align="left">Gather & Analyse</th>  
